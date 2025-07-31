@@ -9,6 +9,8 @@ export default function App() {
     <Routes>
       <Route path="/" element={<HomePage />} />
       <Route path="/blog" element={<Blog />} />
+      <Route path="/blog2" element={<Blog2 />} />
+      {/* Add more routes as needed */}
     </Routes>
   );
 }
