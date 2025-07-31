@@ -52,7 +52,7 @@ export default function AIBlog() {
             <p className="text-sm text-gray-600 mb-4">
               Create stunning videos from your photos effortlessly In 2 Minutes.
             </p>
-            <a href="/Blog" className="text-blue-600 font-medium">
+            <a href="/Blog2" className="text-blue-600 font-medium">
               Read More
             </a>
           </div>
