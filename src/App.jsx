@@ -2,6 +2,7 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 import HomePage from "./home";
 import Blog from "./Blog";
+import Blog2 from "./Blog2";
 
 export default function App() {
   return (
